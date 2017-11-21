@@ -1,9 +1,7 @@
 # Project Planning
 
 ## Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Link: https://github.com/dwayne8877/liftoff-assignments/commit/7f9993cb58f44f8350412dc617734baa50966c59
 
 ## Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Link: https://www.pivotaltracker.com/n/projects/2130461
